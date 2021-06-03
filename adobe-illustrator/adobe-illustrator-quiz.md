@@ -21,13 +21,13 @@
 #### Q3. Why would you use the Save Selection command?
 
 - [ ] to preserve vector copies of objects you plan to rasterize
-- [ ] to save copies of selected objects in a new file
+- [x] to save copies of selected objects in a new file
 - [ ] to preserve a selection of objects you may use again
 - [ ] to save selected objects in a Creative Cloud library
 
 #### Q4. Which action closes a path when you are actively drawing with the Pen tool?
 
-- [ ] clicking or dragging the first point in the path
+- [x] clicking or dragging the first point in the path
 - [ ] choosing Object > Path > Join
 - [ ] pressing Return (Mac) or Enter (Windows)
 - [ ] switching to a different tool
@@ -36,7 +36,7 @@
 
 `A map of California has a light beige main color and a small dark shadow.`
 
-- [ ] 3D Extrude & Bevel
+- [x] 3D Extrude & Bevel
 - [ ] Offset Path
 - [ ] 3D Rotate
 - [ ] 3D Revolve
@@ -61,7 +61,7 @@
 
 `A red lines spirals clockwise in, towards the center. Arrows along the line point in that direction.`
 
-- [ ] Select Object > Path > Reverse Path Direction.
+- [x] Select Object > Path > Reverse Path Direction.
 - [ ] Select Effect > 3D > Rotate.
 - [ ] Use the Flip Horizontal and Flip Vertical commands in the Transform panel menu.
 - [ ] Drag the path with the Reshape tool.
@@ -93,7 +93,7 @@
 
 - [ ] Switch to any other workspace, and then switch back to Essentials.
 - [ ] Quit Illustrator, press and hold Command+Shift+Option (Mac) or Ctrl+Shift+Alt (Windows), and relaunch Illustrator.
-- [ ] Choose Reset Essentials from the Workspace menu or the workspace switcher.
+- [x] Choose Reset Essentials from the Workspace menu or the workspace switcher.
 - [ ] Quit and relaunch Illustrator.
 
 #### Q13. Your boss likes the new logo you've designed but would like to see some variations using different color schemes. Which feature could you use to generate these variations quickly?
@@ -196,7 +196,7 @@
 - [ ] The Alana fonts are deactivated.
 - [ ] The Alana fonts are for web-only use.
 - [ ] The Alana fonts are currently being activated.
-- [ ] Not all the fonts in the Alana family are activated.
+- [x] Not all the fonts in the Alana family are activated.
 
 #### Q27. What command would you apply to make objects beneath the selected artwork visible inside the circle?
 
@@ -212,7 +212,7 @@
 - [ ] Select instances with the Group Selection tool and then choose the desired graphic style.
 - [ ] Symbol instances in a symbol set cannot be overridden.
 - [ ] Select instances with the Direct Selection tool and then choose the desired graphic style.
-- [ ] With the Symbol Styler tool, select a graphic style and paint the style onto symbol instances.
+- [x] With the Symbol Styler tool, select a graphic style and paint the style onto symbol instances.
 
 #### Q29. What happens when you click an existing anchor point with the Pen tool?
 
@@ -237,7 +237,7 @@
 - [ ] It has been converted to outlines.
 - [ ] It is live text.
 - [ ] It is a compound path.
-- [ ] It has a fill color of black.
+- [x] It has a fill color of black.
 
 #### Q32. You would like the columns in a chart to cover the whole length of the category axis. What option would you choose?
 
@@ -251,12 +251,12 @@
 - [ ] With nothing selected, click the More Tools button in the Properties panel.
 - [ ] Click the ellipsis at the bottom of the toolbar.
 - [ ] Turn on the tool in the preferences.
-- [ ] In the Window menu, click Window > Tools.
+- [x] In the Window menu, click Window > Tools.
 
 #### Q34. The four flowers shown in the image below were created by applying an art brush to paths of different lengths. How can you prevent the distortion seen in flowers 2, 3, and 4 while keeping the size of the leaves and the width of the stem the same in all the flowers?
 
 - [ ] Open the Art Brush Options dialog box and select Scale Proportionally.
-- [ ] Expand the appearance of the distorted flowers and drag the flowers with the Selection tool.
+- [x] Expand the appearance of the distorted flowers and drag the flowers with the Selection tool.
 - [ ] Use the Pen tool to add points at the top and bottom of the stem, and then drag the points with the Direct Selection tool to remove the distortion.
 - [ ] Open the Art Brush Options dialog box, select Stretch Between Guides, and then place the guides so only the stem is between them.
 
@@ -277,7 +277,7 @@
 #### Q37. When using the Image Trace feature, which option has the most impact on the number of paths that are created in the tracing result?
 
 - [ ] Corners
-- [ ] Noise
+- [x] Noise
 - [ ] Paths
 - [ ] Colors
 
@@ -309,7 +309,7 @@
 - [ ] Placement Options
 - [ ] Edit Original
 - [ ] Update Link
-- [ ] Relink
+- [x] Relink
 
 #### Q42. The fill colors of several instances of a dynamic symbol have been modified. What is the fastest way to return the fill color in every instance to its original appearance?
 
@@ -330,7 +330,7 @@
 #### Q44. Your client likes the pattern fill in the text below but wants the flowers to overlap more so there are smaller gaps. How could you accomplish that?
 
 - [ ] Select Size Tile to Art in the Pattern Options dialog box.
-- [ ] Increase the number of copies of the flower used to make the pattern.
+- [x] Increase the number of copies of the flower used to make the pattern.
 - [ ] Reduce the width and height in the Pattern Options dialog box.
 - [ ] Use the Overlap buttons in the Pattern Options dialog box.
 
@@ -351,13 +351,13 @@
 #### Q47. Why would you choose Enable Guides for 9-slice scaling when creating a symbol?
 
 - [ ] to allow portions of the symbol to be exported as separate graphics
-- [ ] to ensure that each instance of the symbol always maintains its original proportions when scaled
+- [x] to ensure that each instance of the symbol always maintains its original proportions when scaled
 - [ ] to include custom guides with the symbol so each instance is placed in the same position relative to the artboard
 - [ ] to allow instances of the symbol to be scaled without distorting the corners
 
 #### Q48. What can you do in order to edit text in just one placed instance of a symbol?
 
-- [ ] Click the Edit Symbol button in the Control panel or Properties panel.
+- [x] Click the Edit Symbol button in the Control panel or Properties panel.
 - [ ] Edit the symbol instance name.
 - [ ] Double-click the instance with the Type tool.
 - [ ] Click the Break Link button in the Control panel or Properties panel.
@@ -366,19 +366,19 @@
 
 - [ ] Drag the object into the Asset Export panel.
 - [ ] Select the object and choose Generate CSS from the CSS Properties panel.
-- [ ] Select the object and choose Copy Selected Style from the CSS Properties panel.
+- [x] Select the object and choose Copy Selected Style from the CSS Properties panel.
 - [ ] Give the object a name in the Layers panel.
 
 #### Q50. You have drawn objects on planes using the perspective grid, but now want to change the angles of the grid to new vanishing points and have the artwork update automatically. What option should be enabled to achieve this result?
 
-- [ ] Enable Perspective Warp.
+- [x] Enable Perspective Warp.
 - [ ] Enable Viewing Angle in the Define Grid dialog box.
 - [ ] Choose View > Perspective Grid > Lock Station Point
 - [ ] Enable 3D Transform.
 
 #### Q51. What happens when you assign a different color profile to an image?
 
-- [ ] The onscreen appearance stays the same, but the color values in the image will change.
+- [x] The onscreen appearance stays the same, but the color values in the image will change.
 - [ ] The onscreen appearance may change, but the color values in the image stay the same.
 - [ ] Neither the onscreen appearance nor the color values in the image will change. Only the metadata in File Info changes.
 - [ ] Both the onscreen appearance and the color values in the image will change
